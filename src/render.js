@@ -1,4 +1,4 @@
-import './render.css'
+import './render.scss'
 
 export function render() {
     const el = document.createElement('div')
